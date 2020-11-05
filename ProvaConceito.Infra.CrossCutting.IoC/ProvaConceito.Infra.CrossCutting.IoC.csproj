@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProvaConceito.Domain\ProvaConceito.Domain.csproj" />
+    <ProjectReference Include="..\ProvaConceito.Infra.Data\ProvaConceito.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
